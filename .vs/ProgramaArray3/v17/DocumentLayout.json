@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|c:\\users\\usergpc\\source\\repos\\programaarray3\\programaarray3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|solutionrelative:programaarray3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|c:\\users\\usergpc\\source\\repos\\programaarray3\\programaarray3\\validaciones\\valorrepetido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|solutionrelative:programaarray3\\validaciones\\valorrepetido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|c:\\users\\usergpc\\source\\repos\\programaarray3\\programaarray3\\validaciones\\valormenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|solutionrelative:programaarray3\\validaciones\\valormenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|c:\\users\\usergpc\\source\\repos\\programaarray3\\programaarray3\\estructuraarray\\arrayestrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A55181-61AA-4358-AE87-9A4163C55205}|ProgramaArray3\\ProgramaArray3.csproj|solutionrelative:programaarray3\\estructuraarray\\arrayestrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValorRepetido.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\Validaciones\\ValorRepetido.cs",
+              "RelativeDocumentMoniker": "ProgramaArray3\\Validaciones\\ValorRepetido.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\Validaciones\\ValorRepetido.cs",
+              "RelativeToolTip": "ProgramaArray3\\Validaciones\\ValorRepetido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:53:46.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValorMenor.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\Validaciones\\ValorMenor.cs",
+              "RelativeDocumentMoniker": "ProgramaArray3\\Validaciones\\ValorMenor.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\Validaciones\\ValorMenor.cs",
+              "RelativeToolTip": "ProgramaArray3\\Validaciones\\ValorMenor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:44:03.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayEstrc.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\EstructuraArray\\ArrayEstrc.cs",
+              "RelativeDocumentMoniker": "ProgramaArray3\\EstructuraArray\\ArrayEstrc.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\EstructuraArray\\ArrayEstrc.cs",
+              "RelativeToolTip": "ProgramaArray3\\EstructuraArray\\ArrayEstrc.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:27:34.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramaArray3\\Program.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\ProgramaArray3\\ProgramaArray3\\Program.cs",
+              "RelativeToolTip": "ProgramaArray3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:21:42.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
